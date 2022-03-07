@@ -1,0 +1,171 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#title {
+  color: rgb(10, 230, 230);
+  font-size: large;
+  text-align: center;
+}
+
+.inputField {
+  border-radius: 5px;
+  width: 450px;
+  border-color: rgb(102, 0, 255);
+  border-width: 5px;
+  margin-bottom: 30px;
+}
+
+.input {
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.one {
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(9, 255, 198);
+}
+
+.two {
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(9, 255, 198);
+}
+
+.three {
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(9, 255, 198);
+}
+
+.four {
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(9, 255, 198);
+}
+
+.five {
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(9, 255, 198);
+}
+
+.six {
+  position: relative;
+  top: 30px;
+  right: 298px;
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(9, 255, 198);
+}
+
+.seven {
+  position: relative;
+  top: 30px;
+  right: 298px;
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(9, 255, 198);
+}
+
+.eight {
+  position: relative;
+  top: 30px;
+  right: 298px;
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(9, 255, 198);
+}
+
+.nine {
+  position: relative;
+  top: 30px;
+  right: 298px;
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(9, 255, 198);
+}
+
+.zero {
+  position: relative;
+  top: 30px;
+  right: 298px;
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(9, 255, 198);
+}
+
+.add {
+  position: relative;
+  top: 30px;
+  right: 298px;
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(202, 255, 9);
+}
+
+.subtract {
+  position: relative;
+  top: 30px;
+  right: 298px;
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(202, 255, 9);
+}
+
+.multiply {
+  position: relative;
+  /* top: 30px; */
+  right: 417px;
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(202, 255, 9);
+}
+
+.divide {
+  position: relative;
+  /* top: 30px; */
+  right: 417px;
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(202, 255, 9);
+}
+
+.equals {
+  position: relative;
+  /* top: 30px; */
+  right: 417px;
+  border-radius: 5px;
+  width: 60px;
+  cursor: pointer;
+  background-color: rgb(218, 9, 255);
+  bottom: -30px;
+}
+
+.clear {
+  position: relative;
+  right: 487px;
+  border-radius: 5px;
+  width: 60px;
+  cursor: pointer;
+  background-color: rgb(218, 9, 255);
+  bottom: 0px;
+}
